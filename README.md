@@ -5,6 +5,10 @@ This is a **Hybrid Hospital Management System** built using **React** and **Fire
 The system is designed for **both Patients and Doctors**, with separate dashboards and functionalities depending on the user type.  
 All dashboards are **restricted to pre-registered emails only** to ensure data privacy.
 
+## 🔗 Live Demo
+👉 https://curo-hospital-system.netlify.app/
+
+
 ---
 ## Features
 
